@@ -22,7 +22,6 @@ Features
     - Check Out (All items, by Seller, or Specific Item)
 
 3. Admin Menu
-
     Accessible with a password ("H3LLo?")
     Show All Users
     Show All Sellers
